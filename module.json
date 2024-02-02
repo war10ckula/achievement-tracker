@@ -2,8 +2,8 @@
     "disableAutoUpdate": false,
     "name": "achievement-tracker",
     "options": {
-        "niceName": "Monster Marker RU",
-        "guiName": "Monster Marker RU"
+        "niceName": "achievement-tracker",
+        "guiName": "achievement-tracker"
     },
     "author": "Memenymous / revision WAR100CK",
     "description": "Отслеживание достижений",
