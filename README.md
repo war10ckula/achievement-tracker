@@ -14,7 +14,7 @@
 
 ------
 
-<p align="center"><img src="https://raw.githubusercontent.com/war10ckula/achievement-tracker/main/screen/ach.png" alt="Your image title" width="400"/>
+<p align="center"><img src="https://raw.githubusercontent.com/war10ckula/achievement-tracker/main/screen/ach.png" alt="Your image title" width="1200"/>
 
 ------
 
