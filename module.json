@@ -8,7 +8,7 @@
     "author": "Memenymous / revision WAR100CK",
     "description": "Отслеживание достижений",
     "dependencies": {
-        "library": "https://raw.githubusercontent.com/war10ckula/tera-message/main/module.json"
+        "tera-message": "https://raw.githubusercontent.com/war10ckula/tera-message/main/module.json"
     },
     "servers": ["https://raw.githubusercontent.com/war10ckula/achievement-tracker/main/"],
     "supportUrl": "https://github.com/Witch-hue/Monster-Marker/issues",
