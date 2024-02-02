@@ -1,0 +1,16 @@
+{
+    "disableAutoUpdate": false,
+    "name": "achievement-tracker",
+    "options": {
+        "niceName": "Monster Marker RU",
+        "guiName": "Monster Marker RU"
+    },
+    "author": "Memenymous / revision WAR100CK",
+    "description": "Отслеживание достижений",
+    "dependencies": {
+        "library": "https://raw.githubusercontent.com/war10ckula/tera-message/main/module.json"
+    },
+    "servers": ["https://raw.githubusercontent.com/war10ckula/achievement-tracker/main/"],
+    "supportUrl": "https://github.com/Witch-hue/Monster-Marker/issues",
+    "version": "v29.04 - 31.04 - 92.04 - 100"
+}
